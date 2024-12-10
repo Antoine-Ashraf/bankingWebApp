@@ -1,2 +1,2 @@
 # bankingWebApp
-This banking web application implements basic banking features like user login, requesting loans, money transfer, closing the account, and real-time transactions updates.
+This project is a feature-rich banking application built with JavaScript, showcasing proficiency in advanced DOM manipulation, event handling, and array methods such as map, filter, and reduce. It includes a dynamic user interface that updates in real-time to display transaction history, calculate balances, and summarize deposits, withdrawals, and interest. The application implements core functionalities like secure login authentication, money transfer between accounts, and account closure using efficient logic and array operations.
